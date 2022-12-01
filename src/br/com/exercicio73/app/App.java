@@ -41,15 +41,9 @@ public class App {
 
      }
 
-     /* Media dos salarios */
-
      media_sal = total_sal / populacao;
-
-     /* Media dos filhos */
-
      media_filhos = total_filhos / populacao;
 
-   
      System.out.println ("A media salarial da populacao é R$ "+ media_sal);
 
      System.out.println ("A media de filhos por habitante é "+ media_filhos);
